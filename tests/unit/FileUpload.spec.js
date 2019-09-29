@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { mount, shallowMount } from '@vue/test-utils';
+import { shallowMount } from '@vue/test-utils';
 
 // Component under test
 import FileUpload from '@/components/FileUpload.vue';
