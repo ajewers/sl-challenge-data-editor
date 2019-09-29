@@ -33,7 +33,7 @@ const router = new Router({
     },
     {
       path: '/',
-      redirect: '/upload'
+      redirect: '/about'
     }
   ]
 });
