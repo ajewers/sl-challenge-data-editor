@@ -1,9 +1,9 @@
 # Suade Labs JS Challenge 2019 - Alistair Jewers 
-Scenario: 1 - Data Editor
-Technology: Vue.js
+- Scenario: 1 - Data Editor
+- Technology: Vue.js
 
-# Commands
-## Project setup
+## Commands
+### Install Dependencies
 ```
 npm install
 ```
